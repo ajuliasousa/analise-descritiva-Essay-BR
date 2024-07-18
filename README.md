@@ -13,11 +13,11 @@ escolar dos estudantes ao término do Ensino Médio. Essa prova avalia várias �
 também, a produção de uma redação. Com mais de 3,9 milhões de inscritos em 2023, o Enem pode ser 
 considerado o principal modelo de correção de redação no Brasil. 
 No modelo de correção do Enem, o aluno deve produzir um texto do tipo dissertativo-argumentativo para 
-um tema específico. A avaliação é dividida em 5 competências, cada uma no intervalo de notas de 0 a 200: 
-(i) Língua Portuguesa, 
-(ii) Tema e Gênero, 
-(iii) Coerência, 
-(iv) Coesão e 
+um tema específico. A avaliação é dividida em 5 competências, cada uma no intervalo de notas de 0 a 200: <br>
+(i) Língua Portuguesa, <br>
+(ii) Tema e Gênero, <br>
+(iii) Coerência, <br>
+(iv) Coesão e <br>
 (v) Proposta de Intervenção (sugestão de ação ou medida interventiva para solucionar ou minimizar o problema associado ao tema proposto). 
 A soma direta das notas das competências leva à nota total, que fica no intervalo de 0 a 1000.
 
